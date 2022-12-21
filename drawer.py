@@ -132,7 +132,7 @@ class timeLine():
             iter += 1
 
             # pushing
-            call('git push -u origin master', shell=True)
+            call('git push', shell=True)
 
 
 
