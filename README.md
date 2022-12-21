@@ -24,7 +24,10 @@ $ python drawer.py
 ![1st image](usedImages/1.png)
 
 #### Using Timeline drawer:
-![2nd image](usedImages/second.png)
+![2nd image]()
+
+<img src="usedImages/second.png" alt="2ndImage" width="332" height="351">
+ 
 
 #### After drawing in the timeline:
 ![3rd image](usedImages/3.png)
