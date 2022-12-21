@@ -1,6 +1,5 @@
 # timelineDrawer
-The program which will allow you to draw on Github commit history calendar🎨📆👾
-
+A simple program which allow you to draw on Github commit history calendar🎨📆
 
 ## Getting Started
  1. Create private repository with drawer.py file 
