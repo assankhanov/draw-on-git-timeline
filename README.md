@@ -1,5 +1,5 @@
 # timelineDrawer
-The program which will allow you to draw in Github commit history calendar🎨📆👾
+The program which will allow you to draw on Github commit history calendar🎨📆👾
 
 
 ## Getting Started
